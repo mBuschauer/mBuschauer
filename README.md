@@ -29,6 +29,10 @@ Right now I'm focusing on applications of computer vision algorithms and data an
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 
+**Embedded Computing:**
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Jetson](https://img.shields.io/badge/Jetson-88CE02?style=for-the-badge&logo=nVIDIA&logoColor=black)
 
 ### 🚀 What I'm Working On
 
