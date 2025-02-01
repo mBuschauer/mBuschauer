@@ -19,7 +19,6 @@ Right now I'm focusing on applications of computer vision algorithms and data an
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
-
 **Containerization & OS:**
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
@@ -30,9 +29,9 @@ Right now I'm focusing on applications of computer vision algorithms and data an
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 
 **Embedded Computing:**
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Jetson](https://img.shields.io/badge/Jetson-88CE02?style=for-the-badge&logo=nVIDIA&logoColor=black)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=Raspberry-Pi)](#)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)](#)
+[![Jetson](https://img.shields.io/badge/Jetson-88CE02?logo=nvidia&logoColor=black)](#)
 
 ### 🚀 What I'm Working On
 
