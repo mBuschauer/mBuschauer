@@ -2,7 +2,7 @@
 
 **Physics & Computer Science Undergrad** at the University of Maryland, College Park. 
 
-I'm passionate about applying computer vision and data analysis to solve real-world problems, with a particular focus on innovative technologies for space exploration and scientific research.
+Right now I'm focusing on applications of computer vision algorithms and data analysis to solve on DVS Sensors for scientific reserach.
 
 ### 🌟 Tech Stack & Tools
 
