@@ -2,7 +2,7 @@
 
 **Physics & Computer Science Undergrad** at the University of Maryland, College Park. 
 
-Right now I'm focusing on applications of computer vision algorithms and data analysis to on DVS Sensors for scientific reserach.
+Currently, I’m focusing on applying computer vision algorithms and data analysis to DVS sensors for scientific research, with an emphasis on efficient implementations for low-powered embedded systems designed for space applications.
 
 ### 🌟 Tech Stack & Tools
 
