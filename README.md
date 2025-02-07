@@ -41,6 +41,6 @@ Currently, I’m focusing on applying computer vision algorithms and data analys
 
 ### 🚀 What I'm Working On
 
-- 🌌 **Developing a Star Tracker:** Leveraging cutting-edge DVS sensors for experimental use in low Earth orbit (LEO) as part of the **[UMD Satellite Development Program](https://smallsats.umd.edu/)**.
-- 🌱 **Learning Full-Stack Development:** Exploring Rust with Axum for back-end development and React for front-end.
+- 🌌 **Developing a Star Tracker:** Leveraging cutting-edge DVS sensors for experimental use in Low Earth Orbit (LEO) as part of the **[UMD Satellite Development Program](https://smallsats.umd.edu/)**.
+- 🌱 **Learning Full-Stack Development:** Exploring Rust with Axum for back-end and React for front-end development.
 
