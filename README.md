@@ -1,10 +1,10 @@
-## 👋 Hi there, I'm Marco (he/him)
+## Hi there, I'm Marco 
 
 **Physics & Computer Science Undergrad** at the University of Maryland, College Park. 
 
 Currently, I’m focusing on applying computer vision algorithms and data analysis to DVS sensors for scientific research, with an emphasis on efficient implementations for low-powered embedded systems designed for space applications.
 
-### 🌟 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Programming Languages:**
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
@@ -38,9 +38,4 @@ Currently, I’m focusing on applying computer vision algorithms and data analys
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=Raspberry-Pi)](#)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)](#)
 [![Jetson](https://img.shields.io/badge/Jetson-88CE02?logo=nvidia&logoColor=black)](#)
-
-### 🚀 What I'm Working On
-
-- 🌌 **Developing a Star Tracker:** Leveraging cutting-edge DVS sensors for experimental use in Low Earth Orbit (LEO) as part of the **[UMD Satellite Development Program](https://smallsats.umd.edu/)**.
-- 🌱 **Learning Full-Stack Development:** Exploring Rust with Axum for back-end and React for front-end development.
 
