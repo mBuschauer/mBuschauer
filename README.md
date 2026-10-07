@@ -49,3 +49,12 @@ Most of my research work is private or access-restricted, but I also contribute 
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)](#)
 [![Jetson](https://img.shields.io/badge/Jetson-88CE02?logo=nvidia&logoColor=black)](#)
 
+### "Projects"
+Most of the code I host publicly is only public because it needs to be in order to work. Here are a few small things I've built, in no particular order:
+- **[overleaf-theme](https://github.com/mBuschauer/overleaf-theme)**: A custom theme for Overleaf.
+- **[cbr2cbz](https://github.com/mBuschauer/cbr2cbz)**: A Rust tool for converting CBR archives to CBZ, packaged as a Nix flake for my own Nix-based server.
+- **[jellyfin-desktop-flake](https://github.com/mBuschauer/jellyfin-desktop-flake)**: A Nix flake for installing Jellium Desktop.
+- **[youtube-history-viewer](https://github.com/mBuschauer/youtube-history-viewer)**: A desktop app for filtering and searching your YouTube search history (Tauri/Rust + React).
+- **[eoah-tarot](https://github.com/mBuschauer/eoah-tarot)**: A web tool for tarot and other card spreads, made for a D&D campaign (React).
+- **[scale-fort-tyler](https://github.com/mBuschauer/scale-fort-tyler)**: A Matter.js physics-based puzzle web tool for a D&D campaign (Svelte + SvelteKit).
+  *AI disclosure: Because of a very short turnaround, this project was built with substantial help from AI tools.*
